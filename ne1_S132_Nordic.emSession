@@ -28,6 +28,7 @@
   <ProjectSessionItem path="ne1_S132_Nordic;ne1_S132_Nordic"/>
   <ProjectSessionItem path="ne1_S132_Nordic;ne1_S132_Nordic;AppFunction"/>
   <ProjectSessionItem path="ne1_S132_Nordic;ne1_S132_Nordic;Application"/>
+  <ProjectSessionItem path="ne1_S132_Nordic;ne1_S132_Nordic;nRF_BLE_Services"/>
  </Project>
  <Register1>
   <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ne1_S132_Nordic" decimalNodes="" octalNodes="" unsignedNodes=""/>
@@ -64,7 +65,7 @@
   <SessionOpenFile windowGroup="DockEditLeft" x="31" y="195" useTextEdit="1" openedFrom="C:/nidenshi/ne1/nRF5_SDK_17.1.0_ddde560/components/libraries/scheduler/app_scheduler.h" useBinaryEdit="0" left="0" path="nRF5_SDK_17.1.0_ddde560/components/libraries/scheduler/app_scheduler.c" selected="0" top="165" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="20" y="6" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="_src/led_ctrl.h" selected="0" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="10" y="15" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="_src/led_ctrl.c" selected="0" top="14" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="49" useTextEdit="1" openedFrom="C:/nidenshi/ne1/_src/gpio_ctrl.c" useBinaryEdit="0" left="0" path="_src/main.c" selected="1" top="44" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="17" y="52" useTextEdit="1" openedFrom="C:/nidenshi/ne1/_src/gpio_ctrl.c" useBinaryEdit="0" left="0" path="_src/main.c" selected="0" top="44" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="5" y="117" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="_src/common.h" selected="0" top="75" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="34" y="246" useTextEdit="1" openedFrom="C:/nidenshi/ne1/_src/main.c" useBinaryEdit="0" left="0" path="_src/common.c" selected="0" top="201" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="99" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error_weak.c" selected="0" top="79" codecName="Default"/>
@@ -80,6 +81,7 @@
   <SessionOpenFile windowGroup="DockEditLeft" x="20" y="45" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="_src/app_uart_fifo.c" selected="0" top="39" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="426" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="_src/bleSettings/ble_hrs.c" selected="0" top="411" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="_src/bleSettings/ble_dis.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="32" y="552" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="_src/sdk_config.h" selected="1" top="536" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditRight" x="13" y="21" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="_src/gpio_ctrl.c" selected="0" top="20" codecName="Default"/>
  </Files>
  <ARMCrossStudioWindow activeProject="ne1_S132_Nordic" fileDialogDefaultFilter="*" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/nidenshi/ne1/_src" debugSearchPath="" autoConnectCapabilities="3199"/>
